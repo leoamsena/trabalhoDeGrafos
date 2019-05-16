@@ -37,8 +37,9 @@ Algoritmo: apresentação do pseudocódigo implementado e justificar porque essa
 instâncias propostas para o trabalho. Para medir a qualidade das soluções, pede-se
 que seja calculado o desvio da solução de cada instância i de seu algoritmo (sol[i]) em
 relação à melhor solução conhecida de i (bkv[i], presente no arquivo bkv), dado por:
-<img src="https://latex.codecogs.com/gif.latex?\frac{sol[i]%20-%20bkv[i]}{bkv[i]}100" /> (1)
-
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\frac{sol[i]%20-%20bkv[i]}{bkv[i]}100" /> (1)
+</p>
 Os grupos também deverão apresentar os tempos computacionais gastos por seu algoritmo.
 * Conclusão: indicar o que foi aprendido, as dificuldades e qual componente do algoritmo
 levou a um bom desempenho do método.
@@ -77,10 +78,10 @@ testes já executados.
 nomeMembroSubmeteTrabalhoCV-MatriculaDesseAluno-img.png -sol
 nomeMembroSubmeteTrabalhoCV-MatriculaDesseAluno-sol". 
 ```
-"python mayron123456.py -in problema1 -out mayron-123456-resultados -img mayron-123456-img.png
--sol mayron-123456-sol", gerará uma imagem com a solução do problema de nome
-"mayron-123456-img.png"e um arquivo de nome "mayron-123456-sol", que contenha
-as rotas para cada veículo da seguinte forma:
+python mayron123456.py -in problema1 -out mayron-123456-resultados -img mayron-123456-img.png -sol mayron-123456-sol
+```
+gerará uma imagem com a solução do problema de nome "mayron-123456-img.png" e um arquivo de nome "mayron-123456-sol", que contenha as rotas para cada veículo da seguinte forma:
+```
 1 2 5 6
 1 3 4
 1 7 8
