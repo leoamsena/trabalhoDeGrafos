@@ -2,6 +2,7 @@
 Repositório para trabalho da disciplina GCC218 do 1 período de 2019.
 
 ##Problema
+
 Considere um conjunto de regiões em uma cidade, compostas por vários pontos de interesse.
 A demanda de cada região deve ser atendida por um único ponto que faça parte dela, e cada
 ponto pertence a apenas uma região. A situação brevemente descrita nesse contexto está presente na roteirização de embarcações de transporte marítimo, planejamento de atendimento
