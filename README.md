@@ -39,9 +39,9 @@ que seja calculado o desvio da solução de cada instância i de seu algoritmo (
 relação à melhor solução conhecida de i (bkv[i], presente no arquivo bkv), dado por:
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?\frac{sol[i]%20-%20bkv[i]}{bkv[i]}100" /> 
-</p>
-<p align="rigth">
-  (1)
+  <span align="center">
+    (1)
+  </span>
 </p>
 Os grupos também deverão apresentar os tempos computacionais gastos por seu algoritmo.
 * Conclusão: indicar o que foi aprendido, as dificuldades e qual componente do algoritmo
